@@ -31,4 +31,4 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/Wheremst)
+![Snake animation](https://github.com/Wheremst/Wheremst/blob/output/github-snake-dark.svg)
