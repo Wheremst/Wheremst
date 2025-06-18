@@ -11,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wheremst&layout=compact&theme=highcontrast" alt="brunorabelo top langs" />
 </p>
 
+![Snake animation](https://github.com/Wheremst/Wheremst/blob/output/github-snake-dark.svg)
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -30,5 +32,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-![Snake animation](https://github.com/Wheremst/Wheremst/blob/output/github-snake-dark.svg)
