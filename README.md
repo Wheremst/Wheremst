@@ -5,7 +5,7 @@
 - 💻 I have a love for programming, gaming and learning!
 - 😄 Pronouns: He/him
 
-### 🌱 What am I currently working on/studying:
+### 🌱 What am I currently working on/studying?
 - 🔭 Learning C#, Javascript and docker!
 - 👯 Looking for fun projects to do and hone my skills
 
