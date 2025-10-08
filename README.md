@@ -2,11 +2,11 @@
 
 ### 👨‍💻 About Me
 - 🇧🇷 I'm a brazilian computer science student currently open for work!
-- 💻 I have a love for programming, gaming and learning!
+- 💻 I have a love for programming, learning and gaming!
 - 😄 Pronouns: He/him
 
 ### 🌱 What am I currently working on/studying?
-- 🔭 Learning C#, Javascript and docker!
+- 🔭 Learning Spring/Spring boot, Javascript and Angular!
 - 👯 Looking for fun projects to do and hone my skills
 
 ### 🌍 Connect With Me
