@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/him
 
 ### 🌱 What am I currently working on/studying?
-- 🔭 Learning Spring/Spring boot, Javascript and Angular!
+- 🔭 Learning Spring/Spring boot, Typescript and Angular!
 - 👯 Looking for fun projects to do and hone my skills
 
 ### 🌍 Connect With Me
